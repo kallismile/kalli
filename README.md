@@ -1,6 +1,5 @@
 # kalli
 OpenWeatherMap
 
-ΠΡΟΒΛΕΨΕΙΣ ΓΙΑ ΤΟΝ ΚΑΙΡΟ
-
--xampp
+PREDICTIONS FOR WEAHTER
+Install and extract the file to xampp-->htdocs
