@@ -2,4 +2,6 @@
 OpenWeatherMap
 
 PREDICTIONS FOR WEAHTER
-Install and extract the file to xampp-->htdocs
+Use Google Chrome !
+Install and extract the file to xampp-->htdocs !
+
